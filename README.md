@@ -2,18 +2,17 @@
 
 All the coding problems that i do nowadays are in the following platforms.
 
-### Codewars
+## Codewars
 
-You can find my profile [here][codewars]
+[![Codewars](https://www.codewars.com/users/PabloVarg/badges/large)][codewars]
 
-### Leetcode
+## Leetcode
 
 You can find my profile [here][leetcode]
 
-### Codeforces
+## Codeforces
 
 You can find my profile [here][codeforces]
-
 
 [codewars]: https://www.codewars.com/users/PabloVarg
 [leetcode]: https://leetcode.com/pvarber/
